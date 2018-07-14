@@ -1,0 +1,110 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh filename="mesh_set_1.ply" label="mesh_set_1.ply">
+   <MLMatrix44>
+0.995759 0.0173046 0.0903601 0.457636 
+-0.00139069 0.984871 -0.173285 -1.01304 
+-0.0919916 0.172424 0.980718 -1.51021 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh filename="mesh_set_2.ply" label="mesh_set_2.ply">
+   <MLMatrix44>
+0.795739 -0.0215948 -0.605255 -2.90091 
+-0.119426 0.974147 -0.191768 0.281986 
+0.593748 0.22488 0.772588 -2.148 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh filename="mesh_set_3.ply" label="mesh_set_3.ply">
+   <MLMatrix44>
+0.575112 0.334412 0.746603 2.74483 
+-0.153497 0.940536 -0.303037 -0.106282 
+-0.803546 0.059679 0.592244 -3.58289 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh filename="mesh_set_4.ply" label="mesh_set_4.ply">
+   <MLMatrix44>
+-0.0204373 -0.0494026 0.99857 5.31543 
+0.0396928 0.997951 0.0501847 0.742497 
+-0.999003 0.0406622 -0.018434 -6.89877 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh filename="mesh_set_5.ply" label="mesh_set_5.ply">
+   <MLMatrix44>
+-0.890247 -0.150195 0.430002 0.470635 
+-0.0934736 0.984219 0.150256 1.63612 
+-0.445785 0.0935718 -0.890236 -11.9199 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh filename="mesh_set_6.ply" label="mesh_set_6.ply">
+   <MLMatrix44>
+-0.990957 -0.127748 -0.0410405 -1.44415 
+-0.132403 0.980573 0.144728 0.231683 
+0.0217552 0.148852 -0.98862 -11.757 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh filename="mesh_set_7.ply" label="mesh_set_7.ply">
+   <MLMatrix44>
+-0.679119 -0.128935 -0.722616 -6.70597 
+-0.248283 0.966775 0.0608379 -0.153348 
+0.690763 0.22073 -0.688568 -10.6325 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh filename="mesh_set_8.ply" label="mesh_set_8.ply">
+   <MLMatrix44>
+0.109405 -0.0760744 -0.991082 -6.32575 
+-0.241246 0.965224 -0.10072 -0.36702 
+0.964278 0.250114 0.0872475 -5.44144 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh filename="mesh_set_9.ply" label="mesh_set_9.ply">
+   <MLMatrix44>
+0.991513 -0.00393857 -0.12995 0.0318883 
+-0.0184944 0.985103 -0.170968 -1.39396 
+0.128688 0.17192 0.976669 -1.13348 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh filename="mesh_set_10a.ply" label="mesh_set_10a.ply">
+   <MLMatrix44>
+0.277085 -0.725803 0.209485 1.75139 
+-0.032057 -0.234229 -0.769128 -9.93201 
+0.754748 0.25651 -0.109573 -3.76026 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh filename="mesh_set_10b.ply" label="mesh_set_10b.ply">
+   <MLMatrix44>
+-0.657076 -0.753567 0.0196813 3.32367 
+0.0910546 -0.0534238 0.994412 12.5841 
+-0.748306 0.655196 0.103719 4.75344 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh filename="merged mesh.ply" label="Merged Mesh">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+  <MLMesh filename="Poisson mesh.ply" label="Poisson mesh">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
